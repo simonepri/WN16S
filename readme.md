@@ -2,11 +2,11 @@
   WN16S
 </h1>
 <p align="center">
-  <a href="https://github.com/simonepri/wn16s/releases/latest/download/wn16s.tgz"><img src="https://img.shields.io/github/downloads/simonepri/wn16s/latest/wn16s.tgz.svg" alt="github downloads"/></a>
-  <a href="https://github.com/simonepri/wn16s/releases"><img src="https://img.shields.io/github/tag/simonepri/wn16s.svg" alt="total downloads" /></a>
+  <a href="https://github.com/simonepri/WN16S/releases/latest/download/WN16S.tgz"><img src="https://img.shields.io/github/downloads/simonepri/WN16S/latest/WN16S.tgz.svg" alt="github downloads"/></a>
+  <a href="https://github.com/simonepri/WN16S/releases"><img src="https://img.shields.io/github/tag/simonepri/WN16S.svg" alt="total downloads" /></a>
   <a href="b-separated_values"><img src="https://img.shields.io/badge/format-tsv-e67e22.svg" alt="dataset format" /></a>
   <a href="https://wordnet.princeton.edu/"><img src="https://img.shields.io/badge/source-WordNet-2ecc71.svg" alt="maps source" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/simonepri/wn16s.svg" alt="software license" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/simonepri/WN16S.svg" alt="software license" /></a>
 </p>
 <br />
 <p align="center">
@@ -38,7 +38,7 @@ All source code of this project is licensed under the MIT License - see the [lic
 
 [dataset]: https://github.com/simonepri/WN16S/tree/master/dataset
 [releases]: https://github.com/simonepri/WN16S/releases/latest
-[download]: https://img.shields.io/github/downloads/simonepri/wn16s/latest/wn16s.tgz.svg
+[download]: https://img.shields.io/github/downloads/simonepri/WN16S/latest/WN16S.tgz.svg
 [license]: https://github.com/simonepri/WN16S/tree/master/license
 
 [wn]: https://wordnet.princeton.edu
