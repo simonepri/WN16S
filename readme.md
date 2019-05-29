@@ -3,10 +3,10 @@
 </h1>
 <p align="center">
   <a href="https://github.com/simonepri/WN16S/releases/latest/download/WN16S.tgz"><img src="https://img.shields.io/github/downloads/simonepri/WN16S/latest/WN16S.tgz.svg" alt="github downloads"/></a>
-  <a href="https://github.com/simonepri/WN16S/releases"><img src="https://img.shields.io/github/tag/simonepri/WN16S.svg" alt="total downloads" /></a>
-  <a href="b-separated_values"><img src="https://img.shields.io/badge/format-tsv-e67e22.svg" alt="dataset format" /></a>
-  <a href="https://wordnet.princeton.edu/"><img src="https://img.shields.io/badge/source-WordNet-2ecc71.svg" alt="maps source" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/simonepri/WN16S.svg" alt="software license" /></a>
+  <a href="https://github.com/simonepri/WN16S/releases"><img src="https://img.shields.io/github/tag/simonepri/WN16S.svg" alt="dataset download" /></a>
+  <a href="https://en.wikipedia.org/wiki/tab-separated_values"><img src="https://img.shields.io/badge/format-tsv-e67e22.svg" alt="dataset format" /></a>
+  <a href="https://wordnet.princeton.edu/"><img src="https://img.shields.io/badge/source-WordNet-2ecc71.svg" alt="dataset source" /></a>
+  <a href="https://github.com/simonepri/WN16S/tree/master/license"><img src="https://img.shields.io/github/license/simonepri/WN16S.svg" alt="software license" /></a>
 </p>
 <br />
 <p align="center">
