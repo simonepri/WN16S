@@ -26,7 +26,7 @@ In the [dataset folder][dataset], you can find different `tsv` files the meaning
 | `synset2id.tsv`   | File that maps the 117659 WordNet's synsets to a numeric id. |
 | `relation2id.tsv` | File that maps the 16 WordNet's semantic relations to a numeric id. |
 | `edge2id_all.tsv` | File that contains all the edges of the WordNet's semantic subgraph as triples ids (synset 1, relation, synset 2). |
-| `edge2id_*.tsv`   | Files that contain only the edges of type %. |
+| `edge2id_*.tsv`   | Files that contain only the edges of type *. |
 
 ## Download
 A compressed version of the dataset can be downloaded from the [release page][releases] or by clicking [here][download].
