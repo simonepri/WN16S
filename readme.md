@@ -39,7 +39,7 @@ All source code of this project is licensed under the MIT License - see the [lic
 
 [dataset]: https://github.com/simonepri/WN16S/tree/master/dataset
 [releases]: https://github.com/simonepri/WN16S/releases/latest
-[download]: https://img.shields.io/github/downloads/simonepri/WN16S/latest/WN16S.tgz.svg
+[download]: https://github.com/simonepri/WN16S/releases/latest/download/WN16S.tgz
 [license]: https://github.com/simonepri/WN16S/tree/master/license
 
 [wn]: https://wordnet.princeton.edu
