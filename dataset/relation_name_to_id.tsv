@@ -1,0 +1,16 @@
+0	hypernyms
+1	instance_hypernyms
+2	hyponyms
+3	instance_hyponyms
+4	member_holonyms
+5	substance_holonyms
+6	part_holonyms
+7	member_meronyms
+8	substance_meronyms
+9	part_meronyms
+10	attributes
+11	entailments
+12	causes
+13	also_sees
+14	verb_groups
+15	similar_tos
