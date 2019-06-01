@@ -28,8 +28,6 @@ In the [dataset folder][dataset], you can find different `tsv` files the meaning
 | `edge2id_all.tsv` | File that contains the 267438 edges of the WordNet's semantic subgraph as triples ids (synset 1, relation, synset 2). |
 | `edge2id_*.tsv`   | Files that contain only the edges of type *. |
 
-> The first row of each file contains the columns names
-
 ## Download
 A compressed version of the dataset can be downloaded from the [release page][releases] or by clicking [here][download].
 

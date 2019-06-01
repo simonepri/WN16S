@@ -21,7 +21,7 @@ def nltk_map_synsets_to_id(wn_data_path):
 
   syn_2_id_file = os.path.join(wn_data_path, 'synset2id.tsv')
   with open(syn_2_id_file, 'w+') as f_syn:
-    print('syn_name\tsyn_id', file = f_syn, flush = True)
+    #print('syn_name\tsyn_id', file = f_syn, flush = True)
     for id, syn_obj in enumerate(wn.all_synsets()):
       name = syn_obj.name()
       print(name + '\t' + str(id), file = f_syn, flush = True)
@@ -49,7 +49,7 @@ def nltk_map_relations_to_id(wn_data_path):
 
   rel_2_id_file = os.path.join(wn_data_path, 'relation2id.tsv')
   with open(rel_2_id_file, 'w+') as f_rel:
-    print('rel_name\trel_id', file = f_rel, flush = True)
+    #print('rel_name\trel_id', file = f_rel, flush = True)
     for id, rel_name in enumerate(ID_TO_REL):
       print(rel_name + '\t' + str(id), file = f_rel, flush = True)
 
@@ -63,12 +63,12 @@ def nltk_map_edges_to_id(wn_data_path, syn_to_id, rel_to_id):
 
   edge2id_all_file = os.path.join(wn_data_path, 'edge2id_all.tsv')
   with open(edge2id_all_file, 'w+') as f_all:
-    print('syn_head_id\tsyn_rel_id\tsyn_tail_id', file = f_all, flush = True)
+    #print('syn_head_id\tsyn_rel_id\tsyn_tail_id', file = f_all, flush = True)
     for rel_name in rel_to_id:
       rel_sid = str(rel_to_id[rel_name]);
       edge2id_rel_file = os.path.join(wn_data_path, 'edge2id_' + rel_name + '.tsv')
       with open(edge2id_rel_file, 'w+') as f_rel:
-        print('syn_head_id\tsyn_rel_id\tsyn_tail_id', file = f_rel, flush = True)
+        #print('syn_head_id\tsyn_rel_id\tsyn_tail_id', file = f_rel, flush = True)
         for syn1_name in syn_to_id:
           syn1_obj = wn.synset(syn1_name)
           syn1_sid = str(syn_to_id[syn1_name]);
